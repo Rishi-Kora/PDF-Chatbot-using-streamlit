@@ -128,7 +128,7 @@ PDF-Chatbot-using-streamlit/
 
 ## Contact
 
-Feel free to open an issue or reach out to me at **[rishi.kora@example.com](mailto:rishi.kora@example.com)**.
+Feel free to open an issue or reach out to me at **[korarishi@gmail.com](mailto:korarishi@gmail.com)**.
 
 ---
 
